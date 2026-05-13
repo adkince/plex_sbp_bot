@@ -1,6 +1,6 @@
 BOT_TOKEN = "8722128569:AAHOpa5-_TkD7ztCTws_8iD2DyalzTNwpV0"
 
-CRYPTOBOT_TOKEN = "CRYPTO_PAY_API_TOKEN"
+CRYPTOBOT_TOKEN = "581507:AAo92BwEySOByiaEksZHiXRGRsUiv55ju82"
 
 MARZBAN_URL = "https://twistspeed.duckdns.org:8000/dashboard/#/login"
 MARZBAN_USERNAME = "PolandPanel"
